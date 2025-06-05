@@ -19,6 +19,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@netlify/functions": "^4.1.2",
     "@prisma/client": "^6.8.2",
     "@supabase/supabase-js": "^2.49.4",
     "axios": "^1.9.0",
@@ -31,6 +32,7 @@
     "morgan": "^1.10.0",
     "numero-a-letras": "^1.0.6",
     "olympiad-backend": "file:",
+    "serverless-http": "^3.2.0",
     "socket.io": "^4.8.1",
     "socket.io-client": "^4.8.1"
   },

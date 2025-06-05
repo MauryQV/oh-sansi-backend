@@ -1,4 +1,4 @@
-import { io, connectedUsers } from '../index.js';
+import { io, connectedUsers } from '../../netlify/functions/api.js';
 
 /**
  * Servicio para manejar las operaciones de socket
